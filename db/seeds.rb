@@ -12,4 +12,4 @@
     content: Faker::Lorem.sentence
   )
 end
-g
+
